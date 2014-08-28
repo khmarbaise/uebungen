@@ -15,7 +15,7 @@
   </properties>
 
   <modules>
-      <module>mod1</module>
       <module>mod2</module>
+      <module>mod1</module>
   </modules>
 </project>

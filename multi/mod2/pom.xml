@@ -9,4 +9,12 @@
   </parent>
 
   <artifactId>mod2</artifactId>
+  <name>Multi :: mod2</name>
+  <dependencies>
+      <dependency>
+        <groupId>${project.groupId}</groupId>
+        <artifactId>mod1</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+  </dependencies>
 </project>

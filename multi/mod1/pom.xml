@@ -9,4 +9,6 @@
   </parent>
 
   <artifactId>mod1</artifactId>
+  <name>Multi :: mod1</name>
+
 </project>
